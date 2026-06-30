@@ -1,3 +1,5 @@
-git remote add origin https://github.com/vjqian2/IDXExchange.com.git
-git branch -M main
-git push -u origin main
+<h3 align="center">IDX-Exchange-Internship</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
